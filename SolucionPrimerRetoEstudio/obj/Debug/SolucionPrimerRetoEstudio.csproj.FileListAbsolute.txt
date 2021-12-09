@@ -1,0 +1,12 @@
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\bin\Debug\SolucionPrimerRetoEstudio.exe.config
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\bin\Debug\SolucionPrimerRetoEstudio.exe
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\bin\Debug\SolucionPrimerRetoEstudio.pdb
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\obj\Debug\SolucionPrimerRetoEstudio.csproj.AssemblyReference.cache
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\obj\Debug\SolucionPrimerRetoEstudio.Presentacion.resources
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\obj\Debug\SolucionPrimerRetoEstudio.Properties.Resources.resources
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\obj\Debug\SolucionPrimerRetoEstudio.RegistrarMercancia.resources
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\obj\Debug\SolucionPrimerRetoEstudio.csproj.GenerateResource.cache
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\obj\Debug\SolucionPrimerRetoEstudio.csproj.CoreCompileInputs.cache
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\obj\Debug\SolucionPrimerRetoEstudio.exe
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\obj\Debug\SolucionPrimerRetoEstudio.pdb
+C:\Users\paraq\source\repos\SolucionPrimerRetoEstudio\SolucionPrimerRetoEstudio\obj\Debug\SolucionPrimerRetoEstudio.AdministrarMercancias.resources
